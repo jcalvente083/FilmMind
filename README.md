@@ -24,6 +24,12 @@ FilmMind es una aplicación que proporciona información detallada sobre pelícu
    cd FilmMind
    ```
 
+3. Instalar las librerías necesarias:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 
 ## 📦 Uso
 

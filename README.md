@@ -44,10 +44,10 @@ Sigue las instrucciones en pantalla para buscar información sobre películas.
 ## 📁 Estructura del Proyecto
 
 - `FilmMind.py`: Archivo principal de la aplicación.
-- `Consultas/`: Contiene scripts para realizar consultas a la base de datos o API.
+- `Consultas/`: Contiene la última consulta en audio (en formato wav).
 - `Generos/`: Información relacionada con los géneros de las películas.
 - `Icono/`: Recursos gráficos utilizados en la aplicación.
-- `Respuestas/`: Manejo de las respuestas obtenidas de las consultas.
+- `Respuestas/`: Contiene la última respuesta generada por la app en formato audio (exactamente en mp3).
 
 
 ## 📬 Contacto
